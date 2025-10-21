@@ -25,3 +25,5 @@ print("DEGREE TO RAD TABLE")
 for key, value in rad_degree_dict.items():
     print(f"DEG: {key} = {value} RAD")
 
+
+print("HYPOTENUUSA: ", np.hypot(1.6, 2.3))
